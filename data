@@ -1,0 +1,99 @@
+{
+    "xuexin_xueji": {
+        "degreecategory:": [
+            {
+                "degreecategory:": "普通"
+            }
+        ],
+        "IDnum": [
+            {
+                "IDnum": "330***199211255518"
+            }
+        ],
+        "birth": [
+            {
+                "birth": "1992年11月25日"
+            }
+        ],
+        "schoolBranch": [
+            {
+                "schoolBranch": ""
+            }
+        ],
+        "professionalname": [
+            {
+                "professionalname": "信息与计算科学"
+            }
+        ],
+        "examnum": [
+            {
+                "examnum": "1133 **** 1505 40"
+            }
+        ],
+        "class": [
+            {
+                "class": "科111"
+            }
+        ],
+        "enrollmentdate:": [
+            {
+                "enrollmentdate:": "2011年9月1日"
+            }
+        ],
+        "nation": [
+            {
+                "nation": "汉族"
+            }
+        ],
+        "date:": [
+            {
+                "date:": "2015年7月1日"
+            }
+        ],
+        "learningform:": [
+            {
+                "learningform:": "普通全日制"
+            }
+        ],
+        "schoolname": [
+            {
+                "schoolname": "北京石油化工学院"
+            }
+        ],
+        "programlength:": [
+            {
+                "programlength:": "4"
+            }
+        ],
+        "name": [
+            {
+                "name": "方**"
+            }
+        ],
+        "gender": [
+            {
+                "gender": "男"
+            }
+        ],
+        "Level": [
+            {
+                "Level": "本科"
+            }
+        ],
+        "Department": [
+            {
+                "Department": "数理系"
+            }
+        ],
+        "Studentnum": [
+            {
+                "Studentnum": "111***"
+            }
+        ],
+        "status:": [
+            {
+                "status:": "注册学籍"
+            }
+        ]
+    }
+}
